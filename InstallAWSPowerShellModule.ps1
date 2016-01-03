@@ -38,7 +38,7 @@ Function InstallAWSToolsforWindowsPowerShell() {
 
     If (!(Test-Path $DestinationFolder))
     {
-        New-Item $DestinationFolder -ItemType Folder -Force
+        New-Item $DestinationFolder -ItemType Directory -Force
     }
 
     Write-Host "Downloading AWS PowerShell Module from $AWSPowerShellModuleSourceURL"
