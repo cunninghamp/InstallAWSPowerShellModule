@@ -1,15 +1,17 @@
-#InstallAWSPowerShellModule
+#Install-AWSPowerShellModule.ps1
 
-Downloads and installs the Amazon Web Services Tools for Windows PowerShell. The script has been written as a function to make it easy to incorporate it into other scripts or your PowerShell profile.
+This PowerShell script downloads and installs the Amazon Web Services Tools for Windows PowerShell. The script has been written as a function to make it easy to incorporate it into other scripts or your PowerShell profile.
 
-Script installs an MSI package downloaded from Amazon Web Services.
+##Examples
+
+Running the script will install the MSI package downloaded from Amazon Web Services.
 
 ```
 .\InstallAWSPowerShellModule.ps1
 ```
 
 ##More info
-https://www.idea11.com.au/powershell-script-install-aws-powershell-tools
+http://paulcunningham.me/powershell-script-install-aws-powershell-tools
 
 ##Credits
 
@@ -24,4 +26,8 @@ Find me on:
 * Github:	https://github.com/cunninghamp
 
 Change Log:
-V1.00, 3/12/2014 - Initial version
+
+- V1.00, 3/12/2014, Initial version
+- V1.01, 4/01/2016, Minor bug fix
+
+

@@ -14,12 +14,12 @@ Script installs an MSI package downloaded from Amazon Web Services.
 .\InstallAWSPowerShellModule.ps1
 
 .LINK
-https://www.idea11.com.au/powershell-script-install-aws-powershell-tools
+http://paulcunningham.me/powershell-script-install-aws-powershell-tools
 
 .NOTES
 Written by: Paul Cunningham
 
-* Website:	http://www.idea11.com.au
+* Website:	http://paulcunningham.me
 
 Find me on:
 
