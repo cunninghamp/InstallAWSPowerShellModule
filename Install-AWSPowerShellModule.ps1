@@ -19,12 +19,11 @@ http://paulcunningham.me/powershell-script-install-aws-powershell-tools
 .NOTES
 Written by: Paul Cunningham
 
-* Website:	http://paulcunningham.me
-
 Find me on:
 
+* My Blog:	https://paulcunningham.me
 * Twitter:	https://twitter.com/paulcunningham
-* LinkedIn:	http://au.linkedin.com/in/cunninghamp/
+* LinkedIn:	https://au.linkedin.com/in/cunninghamp/
 * Github:	https://github.com/cunninghamp
 
 Change Log:
